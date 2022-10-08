@@ -2,45 +2,26 @@
 layout: default
 ---
 
-This is a test. Will this update?
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### Small image
+# [Schedule a massage today!](https://www.massagebook.com/dashboard#/business/18490779/dashboard)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue and sports massage. If you seek relief and recovery through myofascial release, then schedule a massage with me!
+
+## Client Reviews
+
+> Chris is amazing, definitely recommend him to anyone looking for massage!
+>
+> - Alice
+
+> He was very communicative and satisfied my needs.
+>
+> - Bob
+
+> I see Chris weekly and have never been disappointed by his work!
+>
+> - Charlie
+
+## Location
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055.1004269004916!2d-105.26203518484195!3d40.028537179412155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876bee79570a0751%3A0xf89da8600055d099!2s2998%20Shady%20Hollow%20W%2C%20Boulder%2C%20CO%2080304!5e0!3m2!1sen!2sus!4v1665188297017!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
