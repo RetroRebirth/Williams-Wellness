@@ -10,12 +10,10 @@ Hello, my name is Christopher Williams and I am a massage therapist specialized 
 
 ## Offerings
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Duration   | Cost |
+|:-----------|:-----|
+| 60 minutes | $80  |
+| 90 minutes | $100 |
 
 ## Client Reviews
 
