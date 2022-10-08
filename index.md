@@ -6,21 +6,30 @@ layout: default
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue and sports massage. If you seek relief and recovery through myofascial release, then schedule a massage with me!
+Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue and sports massage. If you seek relief and recovery, then schedule a massage with me!
+
+## Offerings
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 ## Client Reviews
 
 > Chris is amazing, definitely recommend him to anyone looking for massage!
 >
-> - Alice
+> -- Alice
 
 > He was very communicative and satisfied my needs.
 >
-> - Bob
+> -- Bob
 
 > I see Chris weekly and have never been disappointed by his work!
 >
-> - Charlie
+> -- Charlie
 
 ## Location
 
