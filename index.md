@@ -2,11 +2,9 @@
 layout: default
 ---
 
-# [Schedule a massage today!](https://www.massagebook.com/dashboard#/business/18490779/dashboard)
+# Williams Wellness
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue and sports massage. If you seek relief and recovery, then schedule a massage with me!
+## [Schedule a massage today!](https://www.massagebook.com/dashboard#/business/18490779/dashboard)
 
 ## Offerings
 
@@ -14,6 +12,12 @@ Hello, my name is Christopher Williams and I am a massage therapist specialized 
 |:-----------|:-----|
 | 60 minutes | $80  |
 | 90 minutes | $100 |
+
+## About Me
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue and sports massage. If you seek relief and recovery, then schedule a massage with me!
 
 ## Client Reviews
 
