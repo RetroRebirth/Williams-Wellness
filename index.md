@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Williams Wellness Massage
-
 ## [Schedule a massage today!](https://www.massagebook.com/dashboard#/business/18490779/dashboard)
 
 ## Offerings
