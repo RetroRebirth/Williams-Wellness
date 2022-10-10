@@ -8,7 +8,6 @@ layout: default
 </head>
 
 ## [Click here to schedule a massage today!](https://www.massagebook.com/dashboard#/business/18490779/dashboard)
-[button url="http://www.google.com"]
 
 ## Offerings
 
