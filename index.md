@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<title>Williams Wellness Massage</title>
-<link rel="icon" type="image/x-icon" href="favicon.ico">
+<head>
+  <title>Williams Wellness Massage</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+</head>
 
 ## [Click here to schedule a massage today!](https://www.massagebook.com/dashboard#/business/18490779/dashboard)
 
@@ -16,7 +18,7 @@ layout: default
 
 ## About Me
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![logo](williamswellnessmassage.png)
 
 Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue and sports massage. If you seek relief and recovery, then schedule a massage with me!
 
