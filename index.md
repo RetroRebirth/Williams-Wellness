@@ -21,7 +21,7 @@ Hello, my name is Christopher Williams and I am a massage therapist specialized 
 
 ## Client Reviews
 
-> Inspiration is striking for my review. Man the edibles are kicking in, hahahahahahah.
+> I have seen Chris for a few different sports injuries and he has been attentive, careful, caring, and a good listener. Chris is eager to help people and it shows.
 >
 > -- Connor McMahon
 
