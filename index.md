@@ -3,7 +3,7 @@ layout: default
 ---
 
 <title>Williams Wellness Massage</title>
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/x-icon" href="/images/favicon.png">
 
 ## [Schedule a massage today!](https://www.massagebook.com/dashboard#/business/18490779/dashboard)
 
