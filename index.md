@@ -7,11 +7,11 @@ layout: default
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
 </head>
 
-![logo](logo.jpg)
-
 ## Book a session!
 
 <a href="https://www.massagebook.com/biz/williams-wellness#services"><img src="http://www.massagebook.com/home/img/getbutton/button-booknow.png" alt="Book Now on MassageBook.com!" border="0"></a>
+
+![logo](logo.jpg)
 
 ## Offerings
 
