@@ -7,6 +7,8 @@ layout: default
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
 </head>
 
+## Book a session!
+
 <iframe src="https://www.massagebook.com/biz/williams-wellness#services" frameborder="0" width="100%" height="1000"></iframe>
 
 ## Offerings
