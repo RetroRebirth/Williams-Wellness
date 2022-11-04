@@ -7,6 +7,8 @@ layout: default
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
 </head>
 
+![logo](logo.jpg)
+
 ## Book a session!
 
 <a href="https://www.massagebook.com/biz/williams-wellness#services"><img src="http://www.massagebook.com/home/img/getbutton/button-booknow.png" alt="Book Now on MassageBook.com!" border="0"></a>
@@ -22,9 +24,11 @@ layout: default
 
 ![side_prayer](side_prayer.jpg)
 
-Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue, sports, and thai massage. If you seek relief and recovery, then schedule a massage with me!
+![shoulder](shoulder.jpg)
 
-![logo](logo.jpg)
+![thai](thai.jpg)
+
+Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue, sports, and thai massage. If you seek relief and recovery, then schedule a massage with me!
 
 ## Location
 
