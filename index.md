@@ -20,13 +20,7 @@ layout: default
 
 ## About Me
 
-![top_prayer](top_prayer.jpg)
-
-![shoulder](shoulder.jpg)
-
 ![side_prayer](side_prayer.jpg)
-
-![thai](thai.jpg)
 
 Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue, sports, and thai massage. If you seek relief and recovery, then schedule a massage with me!
 
