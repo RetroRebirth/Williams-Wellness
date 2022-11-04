@@ -5,3 +5,26 @@ title: Williams Wellness Massage
 description: Deep tissue sports massage therapy for recovery and relief.
 github:
   is_project_page: false
+
+############# TOP NAVIGATION BAR ################
+
+# use a logo image in your nav bar.
+use_logo: true
+
+# logo image to use. logo images are constrained at 50px in height.
+logo: logo.jpg
+
+# use text title instead. text title read from uistring.title in ui strings section.
+use_text_title: false
+
+# make search bar appear in top nav?
+search_in_topnav: true
+
+# make search bar appear in sidebar?
+search_in_sidebar: false
+
+# in responsive view, show sidebar toggle button?
+toggle-sidebar-button: true
+
+# in responsive view, show navbar toggle button?
+navbar-toggle: true
