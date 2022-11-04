@@ -22,13 +22,13 @@ layout: default
 
 ![logo](williamswellnessmassage.png)
 
-![top_prayer](top_prayer.HEIC)
+![top_prayer](top_prayer.jpg)
 
-![shoulder](shoulder.HEIC)
+![shoulder](shoulder.jpg)
 
-![side_prayer](side_prayer.HEIC)
+![side_prayer](side_prayer.jpg)
 
-![thai](thai.HEIC)
+![thai](thai.jpg)
 
 Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue and sports massage. If you seek relief and recovery, then schedule a massage with me!
 
