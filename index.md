@@ -28,7 +28,7 @@ layout: default
 
 ![thai](thai.jpg)
 
-Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue and sports massage. If you seek relief and recovery, then schedule a massage with me!
+Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue, sports, and thai massage. If you seek relief and recovery, then schedule a massage with me!
 
 ![logo](logo.jpg)
 
