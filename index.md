@@ -20,8 +20,6 @@ layout: default
 
 ## About Me
 
-![logo](williamswellnessmassage.png)
-
 ![top_prayer](top_prayer.jpg)
 
 ![shoulder](shoulder.jpg)
@@ -31,6 +29,8 @@ layout: default
 ![thai](thai.jpg)
 
 Hello, my name is Christopher Williams and I am a massage therapist specialized in deep tissue and sports massage. If you seek relief and recovery, then schedule a massage with me!
+
+![logo](logo.jpg)
 
 ## Location
 
