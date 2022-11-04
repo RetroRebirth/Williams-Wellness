@@ -9,7 +9,7 @@ layout: default
 
 ## Book a session!
 
-<iframe src="https://www.massagebook.com/biz/williams-wellness#services" frameborder="0" width="100%" height="1000"></iframe>
+<a href="https://www.massagebook.com/biz/williams-wellness#services"><img src="http://www.massagebook.com/home/img/getbutton/button-booknow.png" alt="Book Now on MassageBook.com!" border="0"></a>
 
 ## Offerings
 
